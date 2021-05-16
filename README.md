@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Develpoment**
 
-- 💬 Talk to me about ** Web/Software Development, Games, Anime, More nerd stuff**
+- 💬 Talk to me about **Web/Software Development, Games, Anime, More nerd stuff**
 
 - 📫 How to reach me **harsh.mca19.du@gmail.com**
 
