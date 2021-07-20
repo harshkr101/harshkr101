@@ -5,9 +5,10 @@
 
 - 🌱 I’m currently learning **Full Stack Develpoment**
 
-- 💬 Talk to me about **Web/Software Development, Games, Anime, More nerd stuff**
+- 💬 Talk to me about **Web/Software Development, Video Games, Animes**
 
 - 📫 How to reach me **harsh.mca19.du@gmail.com**
+- More info at [harshkr101.github.io](https://harshkr101.github.io/)
 
 <p align="center">
 <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
