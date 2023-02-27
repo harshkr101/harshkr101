@@ -5,7 +5,6 @@
 
 - 💬 Talk to me about **Software Development, Video Games, Anime**
 
-- 📫 Reach out to me at **harsh.mca19.du@gmail.com**
 - More info at [harshkr101.github.io](https://harshkr101.github.io/)
 
 <p align="center">
